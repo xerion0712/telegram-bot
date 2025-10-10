@@ -1,0 +1,27 @@
+{
+  "name": "telegram-book-reading-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for tracking book reading progress with admin dashboard",
+  "scripts": {
+    "install:all": "npm run install:backend && npm run install:frontend",
+    "install:backend": "cd backend && npm install",
+    "install:frontend": "cd frontend && npm install",
+    "dev:backend": "cd backend && npm run start:dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:backend": "cd backend && npm run build",
+    "build:frontend": "cd frontend && npm run build",
+    "start:backend": "cd backend && npm run start:prod",
+    "start:frontend": "cd frontend && npm run preview"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "nestjs",
+    "react",
+    "typescript",
+    "postgresql"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

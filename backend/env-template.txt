@@ -1,0 +1,14 @@
+# Telegram Bot Configuration
+TELEGRAM_BOT_TOKEN=your_bot_token_here
+TELEGRAM_CHANNEL_ID=@your_channel_username_or_chat_id
+
+# Database Configuration
+DB_HOST=localhost
+DB_PORT=5432
+DB_USERNAME=postgres
+DB_PASSWORD=postgres
+DB_DATABASE=telegram_bot
+
+# Server Configuration
+PORT=3000
+
