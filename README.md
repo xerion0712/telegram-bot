@@ -2,7 +2,6 @@
 
 ### Prerequisites
 - Node.js 16+ 
-- Telegram Bot Token from [@BotFather](https://t.me/BotFather)
 
 ### Installation
 
